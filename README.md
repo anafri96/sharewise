@@ -105,7 +105,7 @@ MIT
 
 ## URL
 
-[MIT](https://sharewise-app.vercel.app/)
+[Sharewise Website](https://sharewise-app.vercel.app/)
 
 ---
 
